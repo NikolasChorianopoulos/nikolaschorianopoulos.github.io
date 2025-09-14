@@ -1,3 +1,25 @@
-# Hi everyone, I am Nick, and this is me.
+# To do list
 
-https://vite.dev/guide/static-deploy.html#github-pages
+
+
+- [ ] create Hero section
+- [ ] add social buttons
+
+- [ ] add about me
+- [ ] supabase for backend database? work experience, education, projects etc.
+- [ ] add work experience - tree with all previus experience?
+- [ ] add projects - links to github and prevews
+- [ ] add contact info
+  
+
+- [ ] add a .me domain free from namecheap
+- [ ] https://vite.dev/guide/static-deploy.html#github-pages
+- [ ] seo
+- [ ] meta tags
+
+
+
+- [ ] animations
+
+- [ ] mobile responsiveness
+- [ ] check all pages for bugs and correct info

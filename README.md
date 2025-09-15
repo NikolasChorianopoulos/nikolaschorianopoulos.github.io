@@ -20,6 +20,9 @@
 
 
 - [ ] animations
+- [ ] dark/light mode
+- [ ] language selector (english-main and greek)
+- [ ] fun stuff idk, simple javascript game? (optional) 
 
 - [ ] mobile responsiveness
 - [ ] check all pages for bugs and correct info

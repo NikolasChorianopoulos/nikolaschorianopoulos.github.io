@@ -25,4 +25,5 @@
 - [ ] fun stuff idk, simple javascript game? (optional) 
 
 - [ ] mobile responsiveness
-- [ ] check all pages for bugs and correct info
+- [ ] check all pages for bugs and correct 
+- [ ] add a tetris game with javascript https://www.youtube.com/watch?v=rAUn1Lom6dw

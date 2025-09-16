@@ -4,8 +4,9 @@
 
 - [ ] create Hero section
 - [ ] add social buttons
+- [ ] add location (patras) and weather in said location
 
-- [ ] add about me
+- [ ] add about me - education - work experience
 - [ ] supabase for backend database? work experience, education, projects etc.
 - [ ] add work experience - tree with all previus experience?
 - [ ] add projects - links to github and prevews

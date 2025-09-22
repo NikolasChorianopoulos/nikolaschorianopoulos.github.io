@@ -80,8 +80,6 @@ function Socials() {
                   <a
                     href={item.href}
                     aria-label={item.label}
-                    target="_blank"
-                    rel="noopener noreferrer"
                     className={cn(
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12 rounded-full"
